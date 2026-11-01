@@ -13,5 +13,7 @@ So after cracking open the barrel jack i found that since this was a aftermarket
 
 I say guesswork, because to be honest, process of elminiation could have got me there too. The red and black wires were obviously a much fatter gauge, which meant they were primary 12v rail so as long as i tied the two smaller wires together, it didn't matter which was sense and which was 5V standby, it would have worked anyways. But whatever lol. 
 
+<img width="4032" height="3024" alt="IMG_9824" src="https://github.com/user-attachments/assets/4d70aacd-6c21-4815-8082-3032e434b82d" />
+
 So anyways i got cracking, soldered the white and green wires together, tinned the wires and stuff, and since this is a high current application, i chose the x4016LE, a 8A buck.
 This one's given me some pain in the past, trying to power a Pi5, but for our purposes it should be fine. So anyways back to it, because it was a high current application, i decided the screw terminals weren't gonna cut it, so soldered to the PCB it was. (Yoda? is that you?). Anyways at the end of the lapse, you can see i fired it up did some multimeter testing, powers a 12v fan from the same dead Xbox. Also the voltage step down does work, and the fan slows when you decrease the voltage (duh) . Anyways, it was a quick project and i gotta go study for exams instead of messing around. Bye!
